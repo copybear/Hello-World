@@ -1,0 +1,8 @@
+MIDlet-1: HelloworldMIDlet,,hello.HelloworldMIDlet
+MIDlet-Jar-Size: 1252
+MIDlet-Jar-URL: Hello-World.jar
+MIDlet-Name: Hello-World Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
